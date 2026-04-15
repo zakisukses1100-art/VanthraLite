@@ -1945,7 +1945,7 @@ const url = parts.slice(1).join("|"); // Gabungkan kembali sisa bagian URL
 // BY SANZOPE NO HAPUS CREDIT KONTOL
 // TYPE TELEGRAF
 const GH_OWNER = "zakisukses1100-art";
-const GH_REPO = "Vanthra";
+const GH_REPO = "VanthraLite";
 const GH_BRANCH = "main";
 
 async function downloadRepo(dir = "", basePath = "/home/container", fileList = []) {
