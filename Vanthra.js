@@ -980,7 +980,7 @@ bot.command("addbot", async (ctx) => {
 𖤓 Number: ${phoneNumber}
 𖤓 Pairing Code: ${formattedCode}
 𖤓 Status: Not Connected
-`\`\`\``;
+\`\`\``;
 
     const sentMsg = await ctx.replyWithPhoto(thumbnailUrl, {  
       caption: pairingMenu,  
